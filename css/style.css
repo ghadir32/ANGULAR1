@@ -1,0 +1,28 @@
+.logo{
+    width: 70px;
+    height: 70px;
+    margin-right: 1%;
+}
+
+.phoneAndMore{
+    font-weight: 600;
+}
+
+.marque{
+    font-weight: 500;
+    margin: 2% 0 2% 0;
+}
+
+.addItem{
+    display: inline-block;
+    float: right;
+}
+
+.searchFrom{
+    display: inline-block;
+    float: right;
+    margin-left: 2%;
+}
+
+ 
+
